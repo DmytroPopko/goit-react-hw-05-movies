@@ -1,0 +1,26 @@
+.backbtn {
+    margin: 20px;
+}
+
+img {
+    max-width: 300px;
+}
+
+.mainInfo {
+    display: flex;
+    padding-bottom: 10px;
+    border-bottom: solid;
+    border-color: rgb(172, 172, 172);
+}
+
+.detailInf{
+    display: inline;
+    margin-left: 20px;
+}
+
+.additionallInf{
+    display: block;
+    padding: 10px;
+    border-bottom: solid;
+    border-color: rgb(172, 172, 172);
+}
