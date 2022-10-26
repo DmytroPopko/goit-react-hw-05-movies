@@ -1,5 +1,5 @@
 import { useFetchMovieReviews } from 'hooks/useFetchMovieReviews';
-import Notitfication from '../Notification/Notitfication';
+import Notitfication from '../../components/Notification/Notitfication';
 
 export const Reviews = () => {
   const reviews = useFetchMovieReviews();
